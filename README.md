@@ -36,11 +36,11 @@ After every move, a new tile (2 or 4) appears randomly on the board. You can als
 
 | Key | Action           |
 | --- | ---------------- |
-| ⬆️  | Move tiles up    |
-| ⬇️  | Move tiles down  |
-| ⬅️  | Move tiles left  |
-| ➡️  | Move tiles right |
-| R   | Restart the game |
+| up arrow     | Move tiles up    |
+| down arrow   | Move tiles down  |
+| left arrow   | Move tiles left  |
+| right arrow  | Move tiles right |
+| R            | Restart the game |
 
 ---
 
